@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/architecture-tree",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/architecture-tree": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/architecture-tree",
+    "origin"
+  ]
+}
