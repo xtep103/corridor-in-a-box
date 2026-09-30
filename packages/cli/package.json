@@ -30,7 +30,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsup"
+    "build": "node init && tsup"
   },
   "dependencies": {
     "yaml": "^2.6.0",
